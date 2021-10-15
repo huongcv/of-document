@@ -18,6 +18,6 @@ Contents
 
 .. toctree::
 
-   0.schema
-   1.text
-   api
+   schema
+   text
+   usage
