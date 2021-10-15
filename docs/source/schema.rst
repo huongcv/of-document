@@ -3,10 +3,10 @@ OfSchemaModel
  .. Cú pháp
 
  Html
-  .. code-block::Html
+  .. code-block:: html
     <of [schemaModel]='coSoSchema'></of>
 TS
- .. code-block::TS
+ .. code-block:: ts
     coSoSchema = new OfSchemaModel<CoSoDto>({
       fieldObject: {
         phanLoai: {
